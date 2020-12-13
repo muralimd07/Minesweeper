@@ -15,3 +15,6 @@
 <img src="https://github.com/muralimd07/Minesweeper/blob/main/Screenshots/3.png?raw=true" width="400" height="400" />
 
 <img src="https://github.com/muralimd07/Minesweeper/blob/main/Screenshots/4.png?raw=true" width="400" height="400" />
+
+<img src="https://raw.githubusercontent.com/muralimd07/Minesweeper/main/Screenshots/IMG_20201213_215432.jpg" width="400" height="400" />
+
