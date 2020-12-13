@@ -7,3 +7,10 @@
 
 ## Game Play
 
+<img src="https://github.com/muralimd07/Minesweeper/blob/main/Screenshots/1.png?raw=true" width="400" height="400" />
+
+<img src="https://github.com/muralimd07/Minesweeper/blob/main/Screenshots/2.png?raw=true" width="400" height="400" />
+
+<img src="https://github.com/muralimd07/Minesweeper/blob/main/Screenshots/3.png?raw=true" width="400" height="400" />
+
+<img src="https://github.com/muralimd07/Minesweeper/blob/main/Screenshots/4.png?raw=true" width="400" height="400" />
