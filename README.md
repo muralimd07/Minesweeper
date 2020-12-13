@@ -19,7 +19,7 @@
 4. Right-clicking twice will give you a question mark symbol which can be useful if you are unsure about a square
    Click the yellow happy face to start a new game.
 
-   ### Status Information:
+  ### Status Information:
 
 1. The upper left corner contains the number of bombs left to find. 
 2. The number will update as you mark and unmark squares.
