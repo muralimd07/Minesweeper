@@ -8,7 +8,7 @@
 ## Game Play
 
 
-   ### Detailed Instructions:
+   ### Instructions:
 
 
 1. If you open a square with 0 neighboring bombs, all its neighbors will automatically open. This can cause a large area to automatically open.
@@ -27,6 +27,7 @@
 
 
 ## Sample Images
+
 
 <img src="https://github.com/muralimd07/Minesweeper/blob/main/Screenshots/1.png?raw=true" width="400" height="400" />
 
