@@ -23,7 +23,7 @@
 
 1. The upper left corner contains the number of bombs left to find. 
 2. The number will update as you mark and unmark squares.
-3. The upper right corner contains a time counter. The timer will max out at (16 minutes 39 seconds).
+3. The upper right corner contains a time counter.
 
 
 ## Sample Images
